@@ -1,0 +1,1692 @@
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\PRUEBA_BORRAR.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\PRUEBA_BORRAR.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V43\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V48\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V77\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V80\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll.config
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Vistas.pdb
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csc.rsp
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\csi.rsp
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Entidades.pdb
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Negocio.pdb
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\bin\Dao.pdb
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.dll
+C:\Users\mauro\Desktop\TPFINAL_GRUPO_NRO3\Vistas\obj\Debug\Vistas.pdb

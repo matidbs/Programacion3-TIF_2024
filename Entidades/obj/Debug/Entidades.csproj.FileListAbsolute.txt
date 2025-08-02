@@ -1,0 +1,42 @@
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Entidades\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Entidades\obj\Debug\Entidades.pdb

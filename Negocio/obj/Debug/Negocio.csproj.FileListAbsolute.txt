@@ -1,0 +1,231 @@
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\indir\Documents\Programacion\2024\PRIMER CUATRIMESTRE\PROG 3\TPFINAL - copia\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\indir\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V3\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\bauti\Desktop\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\mauro\Desktop\UTN\Programacion III\TIF\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V15\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V17\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\indir\Documents\Programacion\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\indir\Downloads\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V25_1\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V31\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V34\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+C:\Users\bauti\Desktop\tirar\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V37\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V46\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V51\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V55\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V58\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V67\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Negocio.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Dao.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\bin\Debug\Entidades.pdb
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.dll
+F:\UTN\Pr III\TP Final\TPFINAL_GRUPO_NRO3_V70\TPFINAL_GRUPO_NRO3\Negocio\obj\Debug\Negocio.pdb
